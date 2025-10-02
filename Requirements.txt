@@ -1,0 +1,24 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Kaggle Integration
+kaggle>=1.5.12
+kagglehub>=0.1.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.16.0
+notebook>=6.5.0
+
+# Optional: For Google Colab compatibility
+# google-colab (only needed in Colab environment)
