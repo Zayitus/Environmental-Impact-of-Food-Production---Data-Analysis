@@ -1,4 +1,4 @@
-A comprehensive exploratory data analysis of greenhouse gas emissions, land use, and water footprint across 43 food products.# 🌍 Environmental Impact of Food Production - Data Analysis
+# 🌍 Environmental Impact of Food Production - Data Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
