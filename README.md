@@ -269,12 +269,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**[Your Name]**
+**Gastón Schvartz**
 
-- 🌐 Portfolio: [your-website.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile]
-- 🐙 GitHub: [github.com/your-username]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [www.linkedin.com/in/gaston-schvartz]
+- 🐙 GitHub: [https://github.com/Zayitus]
+- 📧 Email: Schvartz.g@gmail.com
 
 ---
 
@@ -282,4 +281,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last updated: October 2024*
+*Last updated: October 2025*
